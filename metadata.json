@@ -1,0 +1,8 @@
+{
+  "name": "Memini - Digital Reminiscence Therapy",
+  "description": "A conversational AI companion designed for reminiscence therapy. It helps users share memories through text, photos, and guided topics, providing emotional analysis and feedback.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
